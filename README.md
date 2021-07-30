@@ -1,7 +1,22 @@
-# UseJobs
-Projeto criado em sua maioria  com Java e Quasar.
+# Quasar App (usejobsquasar)
+
+A Quasar Framework app
+
+## Install the dependencies
+```bash
+npm install
+```
+
+### Start the app in development mode (hot-code reloading, error reporting, etc.)
+```bash
+quasar dev
+```
 
 
-Esse projeto tinha como principal objetivo praticar os conhecimentos adquiridos em sala de aula com  uso de Java e um framework nesse caso o Quasar.
+### Build the app for production
+```bash
+quasar build
+```
 
-Contado assim com tecnologias usadas para o FrontEnd e BackEnd. 
+### Customize the configuration
+See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
